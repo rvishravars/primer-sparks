@@ -1,7 +1,6 @@
 # Student Cooperative Food Court in New Zealand
 
 # 1. Spark Narrative
-
 Students at New Zealand universities often juggle tight budgets, busy study schedules, and limited time or facilities to prepare their own food. On-campus options, shaped by broader cost-of-living and commercial pressures, can make it difficult for some students to regularly access simple, basic, healthy meals at a predictable, low price.
 
 This spark proposes a **student-run cooperative food court** where the core operations—menu design, sourcing, cooking, and service—are owned and governed by the student body. Instead of external franchises, the food court runs as a cooperative with a small paid core staff and a broader member base: students contribute time and membership fees, surplus is reinvested in lower prices, better ingredients, and modest stipends, and decision-making is transparent and democratic. Meals are **rationed for members** (e.g., simple daily/weekly limits per student) so that food is used for basic needs rather than commercial resale or bulk hoarding.
@@ -14,10 +13,11 @@ New Zealand is a strong testbed for this model: it has a rich cooperative histor
 
 The shift is from **"students as customers"** to **"students as co-owners"** of the food infrastructure. The key question this spark raises is: *Can a student cooperative food court in New Zealand sustainably provide affordable, healthy food while remaining financially viable and educationally valuable over multiple academic years?*
 
+**Need data to back the narrative**
+
 ---
 
 # 2. Hypothesis Formalization
-
 **Hypothesis Statement**  
 > "On a New Zealand university campus, a student-run cooperative food court can reduce the average cost of a standard student meal by **25–35%** compared to existing commercial vendors, while maintaining or improving self-reported meal quality and nutritional satisfaction, and covering operating costs over at least **two consecutive academic years**."
 
@@ -32,29 +32,7 @@ The shift is from **"students as customers"** to **"students as co-owners"** of 
 
 ---
 
-# 3. Implementation / Pilot Plan
-
-**Pilot Scope**
-- One New Zealand university campus (e.g., a single high-traffic food court space).
-- Limited initial menu (2–3 staple, low-cost, healthy meals; e.g., simple bowls, soups, and salads).
-- Mixed team: a small number of paid staff (kitchen/operations) + student members who contribute time.
-
-**Key Design Choices**
-- Cooperative structure: one-member-one-vote for key decisions (pricing bands, menu changes, surplus allocation).
-- Membership model: low annual membership fee that helps cover fixed costs and signals commitment.
-- Rationing rules: fair-use limits on meals per member per day/week (e.g., "X" basic meals per day) to discourage commercial resale and ensure broad access.
-- Sourcing: prioritize local suppliers and bulk purchasing coops to reduce per-unit cost.
-- Labor model: blend of paid core staff and clearly scoped student member shifts (e.g., regular part-time slots with meal credits or modest pay).
-
-**Data to Collect During Pilot**
-- Daily: number of meals sold, revenue, cost of goods sold (COGS), basic waste metrics.
-- Monthly: full P&L (including rent, utilities, equipment depreciation, stipends/wages).
-- Termly: student surveys on affordability, quality, and sense of ownership/community.
-
----
-
 # 4. Evaluation Strategy
-
 **Primary Metrics**
 - **Affordability:**
 	- Average price of a standard meal at the coop vs comparable campus vendors.
@@ -79,25 +57,24 @@ The shift is from **"students as customers"** to **"students as co-owners"** of 
 ---
 
 # 5. Feedback & Critique
-
 - (To be populated after initial modeling or pilot feedback.)
 
 ---
 
 # 6. Results (When Available)
-
 - (To be populated once pilot or simulation data is available.)
 
 ---
 
 # 7. Revision Notes
-
 - (Use this section to record how the spark evolves over time.)
 
 ---
 
 # 8. Next Actions
-
 - [ ] Design a short survey asking students about weekly food spend (total, on-campus, and off-campus), number of campus meals, and basic demographics (domestic/international, living situation).
 - [ ] Recruit a small volunteer sub-group to keep receipts or log all food purchases for 1–2 weeks, to validate and deepen the survey estimates.
 - [ ] Compile a simple spreadsheet that aggregates survey and diary data, and compare it with publicly available New Zealand cost-of-living and food price statistics (e.g., Stats NZ, NZUSA reports).
+
+---
+
