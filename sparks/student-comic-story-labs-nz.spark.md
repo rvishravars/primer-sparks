@@ -2,12 +2,12 @@
 
 # 1. Spark Narrative
 
-**The Observation:** In many New Zealand primary and intermediate schools, children spend more and more time on screens, but much of that time is passive: watching videos, scrolling feeds, or playing pre-made games. Meanwhile, older forms of creative play like drawing, making comics, and trading stories in person have faded. Classroom writing time often feels like a task to complete, not a world to build and share.
+**The Observation:** In the everyday lives of many New Zealand primary and intermediate students, digital experiences take up a growing share of attention: watching videos, scrolling feeds, or playing pre-made games. Schools already invest heavily in reading, writing, and creativity, but the pull of these passive digital habits means older forms of self-directed creative play like drawing, making comics, and trading stories in person can get crowded out. Classroom writing time is full of important learning goals, yet it can still be hard to give every child a playful, visual way to turn their ideas into shared stories.
 
 At the same time:
 - Many classrooms now have regular access to devices (Chromebooks, tablets) and decent internet.
 - Generative AI can produce safe, child-friendly images on demand.
-- Teachers are under pressure to lift literacy, creativity, and digital citizenship, but have limited time and tools.
+- Teachers are asked to lift literacy, creativity, and digital citizenship within finite classroom time and tools.
 
 Traditional comics publishing cannot react at classroom speed:
 - Print comics are slow and expensive to produce.
@@ -25,9 +25,11 @@ The new pattern in a school term could look like:
 - Term projects: class anthologies on shared themes (Matariki, local environment, history, te ao Māori stories where appropriate and guided).
 - Cross-class exchanges: comics swapped between schools or regions.
 
+This is **not** another social network. There are no public follower graphs or open feeds. Instead, teachers curate who can read which comics, and simple readership stats (for example, how many classmates read a comic or finished a chapter) can be used for light-touch prizes, reading challenges, and school competitions.
+
 Children get:
 - A playful, visual way to practice storytelling, sequencing, and dialogue.
-- A sense of pride and authorship when their comics are read and discussed by peers.
+- A sense of pride and authorship when their comics are read and discussed by peers, with friendly recognition based on readership and effort rather than likes or popularity contests.
 
 Teachers get:
 - A structured digital activity that is **still fundamentally about writing and story craft**.
@@ -166,13 +168,13 @@ We watch how these affect:
 
 **Hidden assumptions:**
 - Students are willing and motivated to write text or dictate stories, not just click through image options.
-- Teachers have regular access to enough devices and time to run comic sessions.
+- Teachers can find room within their existing literacy and digital programmes to run comic sessions.
 - AI image filters are reliable enough to keep content child-safe without constant human review.
 - The novelty of AI-assisted comics does not wear off too quickly.
 
 **Weaknesses:**
 - Risk that some students focus mainly on visuals, with minimal attention to text quality, unless the platform and teacher prompts are carefully designed.
-- Teachers may see this as "extra" rather than core literacy work if alignment with curriculum is not explicit.
+- There is a chance this feels like "one more thing" unless it is clearly woven into existing literacy goals and resources.
 - Schools with limited devices or bandwidth may not be able to participate fully.
 
 **Equity and cultural considerations:**
