@@ -2,61 +2,63 @@
 
 # 1. Spark Narrative
 
-**The Observation:** In the everyday lives of many New Zealand primary and intermediate students, digital experiences take up a growing share of attention: watching videos, scrolling feeds, or playing pre-made games. Schools already invest heavily in reading, writing, and creativity, but the pull of these passive digital habits means older forms of self-directed creative play like drawing, making comics, and trading stories in person can get crowded out. Classroom writing time is full of important learning goals, yet it can still be hard to give every child a playful, visual way to turn their ideas into shared stories.
+On a wet Tuesday in Auckland, a Year 5 class is meant to be drafting narratives. Half the room is staring at blank pages; a few keen writers are away in their own worlds; several students are quietly asking if they can “just watch something” when they finish. The teacher knows these students love stories – they talk endlessly about games, anime, YouTube – but the jump from those rich visual worlds to a page of text still feels steep for many.
+
+**The Observation:** For many New Zealand primary and intermediate students, digital experiences now dominate free time: watching videos, scrolling feeds, playing pre-made games. Schools invest heavily in reading, writing, and creativity, yet the pull of these passive, globalised feeds crowds out local, self-directed creative play like drawing, making comics, and trading stories in person. Within crowded literacy blocks, it is still hard to give every child a playful, visual way to turn their own ideas into shareable stories.
 
 At the same time:
-- Many classrooms now have regular access to devices (Chromebooks, tablets) and decent internet.
-- Generative AI can produce safe, child-friendly images on demand.
-- Teachers are asked to lift literacy, creativity, and digital citizenship within finite classroom time and tools.
+- Many classrooms have regular access to devices (Chromebooks, tablets) and decent internet.
+- Generative AI can produce safe, child-friendly images on demand – if it is tightly constrained.
+- Teachers are being asked to lift literacy, creativity, te ao Māori capability, and digital citizenship with the same limited time and tools.
 
 Traditional comics publishing cannot react at classroom speed:
 - Print comics are slow and expensive to produce.
-- They rarely feature the local worlds, cultures, and in-jokes that matter to Kiwi kids.
-- Industry tends to follow global trends, not classroom-level creativity.
+- They rarely feature the local worlds, languages, and in-jokes that matter to tamariki in Aotearoa.
+- Industry tends to follow global trends, not classroom-level creativity or community stories.
 
 **The Shift:** Instead of waiting for publishers, imagine that **classrooms themselves become small, safe comic studios**:
 - Children (ages ~6–12) describe scenes, characters, and dialogue in their own words or voice.
-- A school-managed platform uses AI only to turn those ideas into child-friendly panels and to suggest panel layouts.
-- Teachers set short, purposeful comic challenges tied to literacy goals (e.g., "show, don’t tell", point of view, endings).
-- Students share finished comics with their class, syndicate them to buddy classes, and optionally print simple zines for the school library.
+- A school-managed platform uses AI **only** to turn those student-authored ideas into child-friendly panels and to suggest simple panel layouts – never to write full scripts.
+- Teachers set short, purposeful comic challenges tied to existing literacy and inquiry goals (e.g., "show, don’t tell", point of view, endings, local histories, te ao Māori concepts where appropriate and guided).
+- Students share finished comics within a trusted school network, swap them with buddy classes, and optionally print simple zines for the library or whānau events.
 
-The new pattern in a school term could look like:
-- Weekly or fortnightly: 30–45 minute "comic lab" sessions in literacy blocks.
-- Term projects: class anthologies on shared themes (Matariki, local environment, history, te ao Māori stories where appropriate and guided).
-- Cross-class exchanges: comics swapped between schools or regions.
+A new pattern in a school term could look like:
+- Weekly or fortnightly 30–45 minute "comic lab" sessions embedded in literacy blocks.
+- Term projects: class anthologies on shared themes (Matariki, local environment, history, te ao Māori stories co-designed with local expertise).
+- Cross-class exchanges: comics swapped between schools or regions, including rural/urban pairings.
 
-This is **not** another social network. There are no public follower graphs or open feeds. Instead, teachers curate who can read which comics, and simple readership stats (for example, how many classmates read a comic or finished a chapter) can be used for light-touch prizes, reading challenges, and school competitions.
+This is **not** another social network. There are no public follower graphs, open feeds, or external audiences. Teachers and schools curate who can read which comics. Simple readership signals (for example, how many classmates read a comic or finished a chapter) feed into light-touch prizes, reading challenges, and school-led celebrations – not popularity contests.
 
 Children get:
-- A playful, visual way to practice storytelling, sequencing, and dialogue.
-- A sense of pride and authorship when their comics are read and discussed by peers, with friendly recognition based on readership and effort rather than likes or popularity contests.
+- A playful, visual way to practise storytelling, sequencing, and dialogue.
+- A sense of pride and authorship when their own characters and places appear in comics read and discussed by peers, with recognition based on effort and craft rather than likes.
 
 Teachers get:
-- A structured digital activity that is **still fundamentally about writing and story craft**.
-- A way to show progress in narrative skills across the year.
+- A structured digital activity that is **still fundamentally about writing and story craft**, not about image prompts alone.
+- A way to demonstrate progress in narrative skills across the year, backed by artefacts students are excited to re-read.
 
 Schools and libraries get:
-- A stream of locally-created, culturally relevant comics that can be printed or displayed.
+- A stream of locally-created, culturally grounded comics that can be displayed, archived, and revisited – including everyday, funny, and serious stories told in te reo Māori.
 
-The spark: **Turn New Zealand classrooms into "Student Comic Story Labs" where kids write the stories and AI only helps with panels and layouts, reviving comics as a shared, school-led culture while building storytelling skills and positive peer communities.**
+The spark: **Turn New Zealand classrooms into "Student Comic Story Labs" where tamariki create comics primarily in te reo Māori (with bilingual scaffolds where needed), and tightly-constrained AI only helps with panels and layouts – normalising te reo as a living language of everyday stories and humour while building storytelling skills and positive peer communities.**
 
 ---
 
 # 2. Hypothesis Formalization
 
 **Hypothesis Statement**
-> "If New Zealand primary and intermediate schools adopt a simple, school-moderated digital platform where students (ages ~6–12) write their own short comics and use AI only for child-friendly images and layout suggestions, then:
-> - Students in participating classes will show **measurably stronger narrative writing skills** (structure, character, dialogue, and visual sequencing) compared to similar classes not using the platform.
-> - Participating classes will report **higher levels of positive peer feedback and story-sharing** around student work.
-> - At least **half of participating schools** will regularly produce and display **student-made comic collections** (digital or printed) by the end of the first school year."
+> "If New Zealand primary and intermediate schools adopt a simple, school-moderated digital platform where students (ages ~6–12) create short comics **primarily in te reo Māori** and use AI only for child-friendly images and layout suggestions, then:
+> - Students in participating classes will show **measurably stronger narrative and language skills in te reo Māori** (structure, character, dialogue, and visual sequencing) compared to similar classes not using the platform.
+> - Participating classes will report **higher levels of positive peer feedback and story-sharing in te reo Māori**, including students choosing to read and respond to each other’s reo comics.
+> - At least **half of participating schools** will regularly produce and display **student-made te reo Māori comic collections** (digital or printed) by the end of the first school year, visible to whānau and wider school communities."
 
 In plain language:
-- We expect this platform to make kids **better at telling stories**, not just better at clicking through apps.
-- We expect classrooms to become **friendlier story circles**, with kids reading and responding to each other’s work.
-- We expect a visible **return of comics as a school-wide medium**: boards, corridors, digital displays, and small zines.
+- We expect this platform to help tamariki **use more te reo Māori confidently in everyday stories**, not just in formal textbook exercises.
+- We expect classrooms to become **friendlier reo story circles**, with kids reading, laughing at, and responding to each other’s te reo comics.
+- We expect a visible **reo Māori comics culture** in schools: boards, corridors, digital displays, and small zines that normalise seeing and using reo.
 
 **Null Hypothesis**
-> "Using a school-moderated AI comic platform does **not** lead to clearly better narrative writing outcomes, does **not** meaningfully improve peer story-sharing or feedback culture, and does **not** result in a noticeable, sustained increase in student-made comics being displayed or collected in participating schools."
+> "Using a school-moderated AI comic platform focused on te reo Māori does **not** lead to clearly better reo Māori narrative outcomes, does **not** meaningfully improve peer story-sharing or reo use in class culture, and does **not** result in a noticeable, sustained increase in student-made te reo Māori comics being displayed or collected in participating schools."
 
 ---
 
