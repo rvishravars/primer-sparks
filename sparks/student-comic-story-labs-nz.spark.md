@@ -191,19 +191,23 @@ We watch how these affect:
 
 # 6. Results (When Available)
 
-When pilots run, this section would summarise:
 
-- **Observed outcomes:**
+## Current Results & Observations (as of March 2026)
+
+- **(Future pilots)** When pilots run, this section will summarise:
   - Changes in narrative writing rubric scores for Group A vs Group B.
   - Participation rates across different year levels and groups.
   - Frequency and variety of comics produced and shared.
-- **Peer community evidence:**
   - Examples of constructive peer feedback patterns.
   - Student-reported feelings of pride and ownership.
-- **Comics culture signals:**
   - Number and nature of displays, zines, and digital showcases created in each school.
-- **Operational learnings:**
   - Where the platform worked smoothly and where it struggled (e.g., network issues, moderation load).
+
+  ## **Update**
+
+  - **AI image generation (greyscale):**
+  - Initial attempts to use available AI models for generating greyscale comic panels did **not** provide consistent or reliable results. Image quality, style, and appropriateness varied significantly between prompts and sessions, making it difficult to use these models for classroom-ready comics. This inconsistency is a major limitation for practical classroom use at this stage.
+  - Ongoing: Exploring alternative approaches, including more tightly-constrained models, curated prompt templates, or hybrid workflows (e.g., student sketches + AI enhancement) to improve reliability and child-friendliness.
 
 ---
 
@@ -237,6 +241,11 @@ New maturity level could move from **conceptual spark** to **pilot-ready program
 - [ ] Recruit a pilot cohort of diverse NZ schools (urban/rural, different deciles) for a 2–3 term trial.
 - [ ] Pre-register the evaluation plan, including narrative writing assessments and peer community metrics, before pilots start.
 - [ ] Explore simple pathways to print or export class anthologies as zines or posters for school libraries.
+
+
+## **Update**
+
+- [ ] Investigate ways to build a custom model for comic generation at different levels of abstraction (e.g., panel, page, story structure) to improve consistency and classroom suitability.
 
 ---
 
