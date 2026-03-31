@@ -1,17 +1,17 @@
-# Student Cooperative Food Court in New Zealand
+---
+title: "Student Cooperative Food Court in Wellington, NZ"
+---
+
+# Student Cooperative Food Court in Wellington, NZ
 
 # 1. Spark Narrative
-Students at New Zealand universities often juggle tight budgets, busy study schedules, and limited time or facilities to prepare their own food. On-campus options, shaped by broader cost-of-living and commercial pressures, can make it difficult for some students to regularly access simple, basic, healthy meals at a predictable, low price.
+Students at universities in Wellington (such as Victoria University of Wellington and Massey University) face some of the highest cost-of-living pressures in New Zealand, driven by high rents and rising grocery prices. On-campus food options are often limited to commercial franchises that prioritize profit margins over student affordability, making it difficult for many to access consistent, healthy, and low-cost meals during the academic day.
 
-This spark proposes a **student-run cooperative food court** where the core operations—menu design, sourcing, cooking, and service—are owned and governed by the student body. Instead of external franchises, the food court runs as a cooperative with a small paid core staff and a broader member base: students contribute time and membership fees, surplus is reinvested in lower prices, better ingredients, and modest stipends, and decision-making is transparent and democratic. Meals are **rationed for members** (e.g., simple daily/weekly limits per student) so that food is used for basic needs rather than commercial resale or bulk hoarding.
+This spark proposes a **student-run cooperative food court** in Wellington where the core operations—menu design, sourcing, cooking, and service—are owned and governed by the student body. Instead of external franchises, the food court operates as a cooperative with a small paid core staff and a broad member base. Students contribute time or membership fees, and any surplus is reinvested to lower prices, improve ingredients, or provide modest stipends. Decision-making is transparent and democratic.
 
-New Zealand is a strong testbed for this model: it has a rich cooperative history (credit unions, farming coops) and relatively high food costs. By structuring the food court as a cooperative, students can:
+To ensure sustainability and prevent commercial exploitation, meals are **rationed for members** (e.g., daily limits per student) so that the service remains focused on basic student needs rather than bulk resale. Wellington is an ideal testbed for this model due to its high density of students, its existing culture of community activism, and New Zealand’s strong cooperative history (e.g., Fonterra, Farmlands, and credit unions).
 
-- Lower the effective cost of meals through shared labor and bulk purchasing.
-- Learn practical skills in basic operations and budgeting.
-- Build a simple, self-sustaining food service that is resilient to commercial vendor turnover.
-
-The shift is from **"students as customers"** to **"students as co-owners"** of the food infrastructure. The key question this spark raises is: *Can a student cooperative food court in New Zealand sustainably provide affordable, healthy food while remaining financially viable and educationally valuable over multiple academic years?*
+The shift is from **"students as customers"** to **"students as co-owners"** of the food infrastructure. The key question this spark raises is: *Can a student cooperative food court in Wellington sustainably provide affordable, healthy food while remaining financially viable and educationally valuable over multiple academic years?*
 
 **Need data to back the narrative**
 
@@ -19,10 +19,10 @@ The shift is from **"students as customers"** to **"students as co-owners"** of 
 
 # 2. Hypothesis Formalization
 **Hypothesis Statement**  
-> "On a New Zealand university campus, a student-run cooperative food court can reduce the average cost of a standard student meal by **25–35%** compared to existing commercial vendors, while maintaining or improving self-reported meal quality and nutritional satisfaction, and covering operating costs over at least **two consecutive academic years**."
+> "On a Wellington university campus, a student-run cooperative food court can reduce the average cost of a standard student meal by **25–35%** compared to existing commercial vendors, while maintaining or improving self-reported meal quality and nutritional satisfaction, and covering operating costs over at least **two consecutive academic years**."
 
 **Null Hypothesis**  
-> "A student-run cooperative food court does **not** achieve a ≥25% reduction in average meal cost and/or cannot sustain break-even operations over two academic years without external subsidies, while maintaining comparable or better meal quality and nutritional satisfaction."
+> "A student-run cooperative food court in Wellington does **not** achieve a ≥25% reduction in average meal cost and/or cannot sustain break-even operations over two academic years without external subsidies, while maintaining comparable or better meal quality and nutritional satisfaction."
 
 **Falsifiability Criteria**
 - Measurable: Meal prices, sales volume, and operating costs are tracked monthly.
@@ -67,14 +67,15 @@ The shift is from **"students as customers"** to **"students as co-owners"** of 
 ---
 
 # 7. Revision Notes
-- (Use this section to record how the spark evolves over time.)
+- **Initial Draft:** Focused on NZ-wide student food insecurity.
+- **Revision 1:** Refined geography to Wellington to focus on high-density student areas and specific regional cost-of-living pressures.
 
 ---
 
 # 8. Next Actions
-- [ ] Design a short survey asking students about weekly food spend (total, on-campus, and off-campus), number of campus meals, and basic demographics (domestic/international, living situation).
-- [ ] Recruit a small volunteer sub-group to keep receipts or log all food purchases for 1–2 weeks, to validate and deepen the survey estimates.
-- [ ] Compile a simple spreadsheet that aggregates survey and diary data, and compare it with publicly available New Zealand cost-of-living and food price statistics (e.g., Stats NZ, NZUSA reports).
+- [ ] Design a short survey for Wellington students asking about weekly food spend (total, on-campus, and off-campus), and specific campus meal satisfaction.
+- [ ] Recruit a small volunteer sub-group from Victoria or Massey University to keep receipts or log all food purchases for 1–2 weeks.
+- [ ] Compile a simple spreadsheet that aggregates survey data and compares it with Wellington-specific cost-of-living and food price statistics (e.g., Stats NZ, NZUSA reports, and regional supermarket prices).
 
 ---
 
