@@ -16,6 +16,20 @@ The key question: *Can a student cooperative food court in New Zealand sustainab
 **Null Hypothesis**
 > "A student-run cooperative food court does **not** achieve a ≥25% reduction in average meal cost and/or cannot sustain break-even operations over two academic years without external subsidies."
 
+```mermaid
+graph TD
+    A["Student Membership & Fees"] --> B["Democratic Governance"]
+    B --> C{Decision Making}
+    C -->|Menu & Sourcing| D["Bulk Purchasing"]
+    C -->|Operations| E["Cooking & Service (Blended Labor)"]
+    D --> E
+    E --> F["Meal Sales & Rationing"]
+    F --> G{Operating Surplus?}
+    G -->|Yes| H["Lower Prices & Higher Quality"]
+    G -->|No| I["Operational Review"]
+    H --> A
+```
+
 # Testing & Results
 
 ## Methodology
