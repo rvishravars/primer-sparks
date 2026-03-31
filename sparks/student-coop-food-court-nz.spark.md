@@ -1,3 +1,7 @@
+---
+title: "Student Cooperative Food Court in New Zealand"
+---
+
 # Student Cooperative Food Court in New Zealand
 
 # 1. Spark Narrative
@@ -67,7 +71,8 @@ The shift is from **"students as customers"** to **"students as co-owners"** of 
 ---
 
 # 7. Revision Notes
-- (Use this section to record how the spark evolves over time.)
+- **Initial Draft:** Focused on the basic coop concept and New Zealand context.
+- **Revision 1:** Added Section 3 (Geography) to specify Dunedin, Wellington, and Auckland as test sites.
 
 ---
 
