@@ -1,6 +1,6 @@
 # Student Comic Story Labs (NZ)
 
-# 1. Spark Narrative
+# Spark Narrative
 
 **The Observation:** For many New Zealand students, digital experiences are passive: watching videos and playing pre-made games. Traditional literacy blocks can feel steep for those who love stories but struggle with the jump to a blank page of text.
 
@@ -8,7 +8,7 @@
 
 Children get a playful, visual way to practice sequencing and dialogue. Teachers get a structured digital activity fundamentally about writing and story craft. Schools get a stream of locally-created, culturally grounded comics that can be displayed and archived.
 
-# 2. Hypothesis Formalization
+# Hypothesis Formalization
 
 **Hypothesis Statement**
 > "If New Zealand primary and intermediate schools adopt a school-moderated digital platform where students create short comics primarily in te reo Māori using AI only for images and layouts, then participating students will show measurably stronger narrative skills in te reo Māori and report higher levels of positive peer story-sharing compared to non-participating classes."
@@ -16,7 +16,7 @@ Children get a playful, visual way to practice sequencing and dialogue. Teachers
 **Null Hypothesis**
 > "Using a school-moderated AI comic platform focused on te reo Māori does **not** lead to better reo Māori narrative outcomes or meaningfully improve peer story-sharing in class culture."
 
-# 3. Testing & Results
+# Testing & Results
 
 ## Methodology
 The hypothesis is tested through a **clustered study design** comparing classes using the platform (Group A) with similar classes continuing their standard literacy activities (Group B). We initially run a cohort model to set baseline expectations before conducting real classroom pilots in a small number of NZ schools (Years 3–8). The platform uses tightly-constrained AI image and layout assistance, documented safety filters, and bilingual scaffolds (te reo Māori and English).
@@ -28,16 +28,10 @@ Observed results will track narrative writing scores and student-reported pride 
 
 ---
 
-# 9. Community Proposals
-
-## Proposed Changes to Section 1 (Spark Narrative)
+# Community Proposals
 - Ideas for tightening the focus on specific regions or communities within Aotearoa New Zealand.
 - Alternative framings that connect more directly to existing literacy and digital citizenship strategies.
-
-## Proposed Changes to Section 2 (Hypothesis Formalization)
 - Different outcome thresholds or assessment tools for narrative writing.
 - Better ways to measure "positive peer community" beyond comments and simple surveys.
-
-## Proposed Changes to Section 3 (Testing & Results)
 - Suggestions for richer models capturing differences between small rural schools and larger urban schools.
 - Ways to simulate or test long-term retention of storytelling gains beyond a single school year.

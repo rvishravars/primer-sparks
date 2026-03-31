@@ -1,6 +1,6 @@
 # Student Cooperative Food Court in New Zealand
 
-# 1. Spark Narrative
+# Spark Narrative
 
 **The Observation:** Students at New Zealand universities often juggle tight budgets, busy study schedules, and limited facilities. On-campus options can make it difficult to access simple, healthy meals at a predictable, low price.
 
@@ -8,7 +8,7 @@
 
 The key question: *Can a student cooperative food court in New Zealand sustainably provide affordable, healthy food while remaining financially viable over multiple academic years?*
 
-# 2. Hypothesis Formalization
+# Hypothesis Formalization
 
 **Hypothesis Statement**
 > "On a New Zealand university campus, a student-run cooperative food court can reduce the average cost of a standard student meal by **25–35%** compared to existing commercial vendors, while maintaining or improving self-reported meal quality and nutritional satisfaction, and covering operating costs over at least **two consecutive academic years**."
@@ -16,7 +16,7 @@ The key question: *Can a student cooperative food court in New Zealand sustainab
 **Null Hypothesis**
 > "A student-run cooperative food court does **not** achieve a ≥25% reduction in average meal cost and/or cannot sustain break-even operations over two academic years without external subsidies."
 
-# 3. Testing & Results
+# Testing & Results
 
 ## Methodology
 The hypothesis is tested via a **pilot program** at a single high-traffic university campus in New Zealand. The pilot involves launching a cooperative food court with a limited menu of staple, low-cost healthy meals. Key design elements include a membership model, low annual fees, fair-use rationing, and a blended labor model (paid core staff plus student member shifts). We prioritize local suppliers and bulk purchasing cooperatives to reduce unit costs.

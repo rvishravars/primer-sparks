@@ -1,6 +1,6 @@
 # Local Coffee Venture Labs
 
-# 1. Spark Narrative
+# Spark Narrative
 
 **The Observation:** In many towns and cities, local coffee bars are more than just places to buy drinks. They are hangout spots where students, small business owners, remote workers, and neighbors talk about their problems and ideas. This is a huge source of clues about what new local businesses might work well — but most of that information is never written down or used.
 
@@ -12,7 +12,7 @@ The spark: **Turn coffee bars into simple, well-organized “local venture labs�
 
 ---
 
-# 2. Hypothesis Formalization
+# Hypothesis Formalization
 
 **Hypothesis Statement**
 > "If we run a simple, organized program in local coffee bars (with small surveys, idea tests, and regular demo events), then at least **2 to 3 times more** local ideas will turn into real businesses that make money within 6 months, and each participating coffee bar will increase its monthly profit by at least **10–15%**."
@@ -22,7 +22,7 @@ The spark: **Turn coffee bars into simple, well-organized “local venture labs�
 
 ---
 
-# 3. Testing & Results
+# Testing & Results
 
 ## Methodology
 The hypothesis is tested using a **combination of computer modeling and real-world pilots.** We first run a discrete event simulation that models coffee bar traffic, patron opt-ins (students, founders, neighbors), and idea throughput to estimate the "idea pipeline" and potential bar earnings. Following the simulation, we recruit 3–5 pilot coffee bars to run the program for 6–12 months.
@@ -34,15 +34,9 @@ Observed results will track the conversion rate of ideas to revenue and the resu
 
 ---
 
-# 9. Community Proposals
-
-## Proposed Changes to Section 1 (Spark Narrative)
+# Community Proposals
 - Suggestions for framing this as a broader "third-space innovation" network beyond coffee bars.
-
-## Proposed Changes to Section 2 (Hypothesis Formalization)
 - Alternative success thresholds or better proxies for "validated venture" and coffee bar economic health.
-
-## Proposed Changes to Section 3 (Testing & Results)
 - Ideas for richer agent-based models or ways to incorporate offline community dynamics.
 - Improved comparison baselines or mixed-method approaches combining quant + ethnographic work.
 - Additional ethical or practical concerns around data collection in public third spaces.
