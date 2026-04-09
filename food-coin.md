@@ -1,0 +1,3 @@
+# Food coin
+
+Start your spark here...
